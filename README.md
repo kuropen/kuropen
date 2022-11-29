@@ -8,7 +8,5 @@ Please note that any contact regarding job positions will be ignored until I dec
 ### Selected works
 - [Portfolio & Profile Web](https://kuropen.org/)
    - [repository](https://gitlab.com/kuropen/kuropen-org-2022)
-- [Penguinone: the personal blog](https://penguinone.kuropen.org/)
-  - [repository](https://github.com/kuropen/penguinone-2022)
 - [bypasslinkis (archive)](https://github.com/kuropen/bypasslinkis)
 - [ux.nu twicca plugin (archive)](https://github.com/kuropen/UxnuTwicca)
