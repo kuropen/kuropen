@@ -7,6 +7,6 @@ Please note that any contact regarding job positions will be ignored until I dec
 
 ### Selected works
 - [Portfolio & Profile Web](https://kuropen.org/)
-   - [repository](https://gitlab.com/kuropen/kuropen-org-2022)
+   - [repository](https://github.com/kuropen/kuropen-org-2023)
 - [bypasslinkis (archive)](https://github.com/kuropen/bypasslinkis)
 - [ux.nu twicca plugin (archive)](https://github.com/kuropen/UxnuTwicca)
